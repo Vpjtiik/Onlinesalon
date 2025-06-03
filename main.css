@@ -1,0 +1,26 @@
+body{ 
+background-image: url("pics/main.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.head{
+    max-width: auto;
+    max-height: 200px;
+   background-color: ; 
+}
+
+.logo{
+min-height: 30px;
+min-width: auto;
+margin-left: 800px;
+}
+
+.button{
+    float: left;
+    min-height: 30px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
